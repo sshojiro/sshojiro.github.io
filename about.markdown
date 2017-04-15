@@ -5,7 +5,8 @@ permalink: /about/
 published: true
 ---
 
-Hi, this is sshojiro, belonging to a university in Japan. I'm interested in mathmatical and statistical methods and chemical engineering.
+## Research Interests
+I'm interested in mathmatical and statistical methods and chemical engineering, especially shallow learning or theorem-based calibration methods.
 
 ## Skills
 - Software development with Ruby on Rails, including javascript.
@@ -17,10 +18,12 @@ Hi, this is sshojiro, belonging to a university in Japan. I'm interested in math
 
 ## Experience
 - Ph.D. candidate in Funatsu Laboratory at the University of Tokyo. Tokyo, April 2017-now.
-- A researcher working for NLP in [Japan Business Systems Inc.](http://www.jbs.com/), Tokyo, Japan. March 2017-now.
+- A researcher working for natural language processing in [Japan Business Systems Inc.](http://www.jbs.com/), Tokyo, Japan. March 2017-now.
 - Software & server engineer working for [HIKARI Lab Inc.](https://www.hikarilab.co.jp/). May 2016-now.
 - Research intern (called 'Practice School') at [Mitsubishi Chemical Inc.](https://www.m-chemical.co.jp/). July 2015-September 2015.
 - [Genestream Inc.](http://genestream.co.jp/) for software engineer intern. Tokyo, November 2012-April 2014.
+- [Ttime!](http://ut-ttime.net), engineering research promoting assistant, April 2012-July 2014.
+- Volunteer activity. Indonesia, Feburary 2012-March 2012.
 
 ## Research Visits
 - MIT Workshop provided by School of Engineering, the University of Tokyo [Overview](https://www.ee.t.u-tokyo.ac.jp/~eejim/2015_s1s2/abroad/20150526_mit.pdf). September 2015.

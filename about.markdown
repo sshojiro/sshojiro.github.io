@@ -26,6 +26,7 @@ I'm interested in mathmatical and statistical methods and chemical engineering, 
 - Volunteer activity. Indonesia, Feburary 2012-March 2012.
 
 ## Research Visits
+- Visited Assitant Professor Goto in Ozaki group at Kwansei University. May 2016.
 - MIT Workshop provided by School of Engineering, the University of Tokyo [Overview](https://www.ee.t.u-tokyo.ac.jp/~eejim/2015_s1s2/abroad/20150526_mit.pdf). September 2015.
 
 ## Education

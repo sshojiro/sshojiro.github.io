@@ -21,7 +21,7 @@ I'm interested in mathmatical and statistical methods and chemical engineering, 
 - A researcher working for natural language processing in [Japan Business Systems Inc.](http://www.jbs.com/), Tokyo, Japan. March 2017-now.
 - Software & server engineer working for [HIKARI Lab Inc.](https://www.hikarilab.co.jp/). May 2016-now.
 - Research internship (called 'Practice School') at [Mitsubishi Chemical Inc.](https://www.m-chemical.co.jp/). July 2015-September 2015.
-- [Genestream Inc.](http://genestream.co.jp/) for web engineer internship. Tokyo, November 2012-April 2014.
+- [Genestream Inc.](http://genestream.co.jp/) for software engineer internship. Tokyo, November 2012-April 2014.
 - [Ttime!](http://ut-ttime.net), engineering research promoting assistant, April 2012-July 2014.
 - Volunteer activity. Indonesia, Feburary 2012-March 2012.
 

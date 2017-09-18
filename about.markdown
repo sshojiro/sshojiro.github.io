@@ -25,6 +25,13 @@ I'm interested in mathmatical and statistical methods and chemical engineering, 
 - [Ttime!](http://ut-ttime.net), engineering research promoting assistant, April 2012-July 2014.
 - Volunteer activity. Indonesia, Feburary 2012-March 2012.
 
+## Educational Activity
+- Work as a teaching assistant for a lecture "computer chemistry exercise" at Department of Chemical System Engineering, the University of Tokyo, Apr.-Jul. 2017
+- Work as a teaching assistant for a lecture "computer chemistry exercise" at Department of Chemical System Engineering, the University of Tokyo, Apr.-Jul. 2016
+- Work as a teaching assistant of an introductory serminar for first and second year bachelor students at Department of Chemical System Engineering, the University of Tokyo,  Apr.-Jul. 2016
+- Work as a teaching assistant of a lecture, the group learning at Department of Chemical System Engineering, the University of Tokyo, Oct. 2015-Jan. 2016
+- Work as a teaching assistant for a lecture "computer chemistry exercise" at Department of Chemical System Engineering, the University of Tokyo, Apr.-Jul. 2015
+
 ## Research Visits
 - Visited Assitant Professor Goto in Ozaki group at Kwansei University. May 2016.
 - MIT Workshop provided by School of Engineering, the University of Tokyo [Overview](https://www.ee.t.u-tokyo.ac.jp/~eejim/2015_s1s2/abroad/20150526_mit.pdf). September 2015.

@@ -15,6 +15,7 @@ published: true
 - 赤外スペクトルデータを用いた混合溶液における純物質の濃度予測モデル構築手法の開発(ポスター) 柴山 翔二郎、金子 弘昌、船津 公人(Poster). The 38th Chemoinformatics conference, Japan. October 2015.
 
 ## Contributing work
+- Launched and contribute to [Instruction of chemoinformatics](https://funatsu-lab.github.io/open-course-ware/)
 - [HIKARI Lab Inc. website](https://www.hikarilab.co.jp)
 - [Funatsu Lab website](http://funatsu.t.u-tokyo.ac.jp)
 - [Ttime!web](http://ut-ttime.net)

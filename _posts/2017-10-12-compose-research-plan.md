@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+layout: post
+categories: research-tips
 ---
 ## Compose research plan
 

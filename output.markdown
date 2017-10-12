@@ -16,9 +16,9 @@ published: true
 
 ## Contributing work
 1. Launched and contribute to [Instruction of chemoinformatics](https://funatsu-lab.github.io/open-course-ware/)
-1. [HIKARI Lab Inc. website](https://www.hikarilab.co.jp)
-1. [Funatsu Lab website](http://funatsu.t.u-tokyo.ac.jp)
-1. [Ttime!web](http://ut-ttime.net)
-1. [Cu-hacker](https://cu-hacker.com)
-1. [My blog about IT contents](http://loudspeaker.sakura.ne.jp/devblog/)
-1. [Kagaku-ya](http://kagakuya.com/)
+1. Modified and transported the app from a server to another: [HIKARI Lab Inc. website](https://www.hikarilab.co.jp)
+1. Launched [Funatsu Lab website](http://funatsu.t.u-tokyo.ac.jp)
+1. Launched [Ttime!web](http://ut-ttime.net)
+1. Implement a function of [Cu-hacker](https://cu-hacker.com)
+1. Rent a server and launched [My blog about IT contents](http://loudspeaker.sakura.ne.jp/devblog/)
+1. Launched [Kagaku-ya](http://kagakuya.com/)

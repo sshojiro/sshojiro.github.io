@@ -10,6 +10,7 @@ published: true
 1. S. Shibayama, H. Kaneko, K. Funatsu, A Novel Calibration-Minimum Method for Prediction of Mole Fraction in Non-Ideal Mixture, AAPS PharmSciTech, 2016.
 
 ## Presentation
+1. Development of a concentration prediction method using a statistical model and a small number of calibration samples, Shojiro SHIBAYAMA, Kimito FUNATSU. The 83rd annual meeting of Society Chemical Engineering of Japan.
 1. 連続プロセスの効率的なオンライン監視のための波長選択および無相関化を組み合わせた濃度予測手法の開発 柴山 翔二郎，船津 公人. 第60回自動制御連合講演会(SICE 60th), Japan. November 2017.
 1. 連続プロセスの効率的なオンライン監視のための波長選択および無相関化を組み合わせた濃度予測手法の開発 柴山 翔二郎, 船津 公人. The 49th autumn conference of Japan Chemical Engineering Society, Japan. September 2017.
 1. 赤外スペクトルを用いたプロセス監視のための波長選択手法 柴山 翔二郎, 金子 弘昌, 船津 公人. The 48th autumn conference of Japan Chemical Engineering Society, Japan. September 2016.

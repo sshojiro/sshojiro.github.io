@@ -34,6 +34,7 @@ I'm interested in mathmatical and statistical methods and chemical engineering, 
 - Worked as a teaching assistant for a lecture "computer chemistry exercise" at Department of Chemical System Engineering, the University of Tokyo, Apr.-Jul. 2015
 
 ## Grant
+- SEUT B type from School of Engineering, the University of Tokyo. Apr 2018-Mar 2019
 - SEUT A type from School of Engineering, the University of Tokyo. Apr 2017-Mar 2018
 
 ## Research Visits

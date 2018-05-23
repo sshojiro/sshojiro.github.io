@@ -1,3 +1,10 @@
+---
+layout: page
+title: Booklist
+permalink: /booklist/
+published: true
+---
+
 ## Booklist
 
 I read as textbooks in my fields:

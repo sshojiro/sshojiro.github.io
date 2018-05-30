@@ -13,7 +13,7 @@ I'm interested in mathmatical and statistical methods and chemical engineering, 
 - Reasearch on machine learning with Python, Matlab, and R language.
 - Server machine management on Ubuntu and CentOS.
 - Git, mysql, postgres, sqlite3, and mongodb.
-- English(TOEFL: 82, TOEIC: 845).
+- English(TOEFL: 95, 2018/5/19, TOEIC: 845).
 - Havnig driver license in Japan.
 
 ## Experience

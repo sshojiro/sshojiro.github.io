@@ -28,3 +28,7 @@ published: true
 1. Implement a function of [Cu-hacker](https://cu-hacker.com)
 1. Rent a server and launched [My blog about IT contents](http://loudspeaker.sakura.ne.jp/devblog/)
 1. Launched [Kagaku-ya](http://kagakuya.com/)
+
+## Online articles
+1. [Qiita (in Japanese)](https://qiita.com/sshojiro)
+1. [Github Gist](https://gist.github.com/sshojiro)

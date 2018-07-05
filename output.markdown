@@ -9,6 +9,10 @@ published: true
 1. S. Shibayama, H. Kaneko, K. Funatsu, Iterative Optimization Technology Combined with Wavelength Selection Based on Excess Absorption for a Process Analytical Technology Calibration-Minimum Approach, Chemometrics and Intelligent Laboratory Systems, 156, 137-147, 2016.
 1. S. Shibayama, H. Kaneko, K. Funatsu, A Novel Calibration-Minimum Method for Prediction of Mole Fraction in Non-Ideal Mixture, AAPS PharmSciTech, 2016.
 
+## Presentation (internationoal conference)
+1. Shojiro SHIBAYAMA, Kimito FUNATSU, Applicability Domains of a Minimal-Calibration Model for Effective
+Online Monitoring of Pure Components’ Concentrations in the Pharmaceutical Continuous Manufacturing Processes, PSE2018, San Diego, Jul. 1-5, 2018
+
 ## Presentation
 1. Development of a concentration prediction method using a statistical model and a small number of calibration samples, Shojiro SHIBAYAMA, Kimito FUNATSU. The 83rd annual meeting of Society Chemical Engineering of Japan.
 1. 連続プロセスの効率的なオンライン監視のための波長選択および無相関化を組み合わせた濃度予測手法の開発 柴山 翔二郎，船津 公人. 第60回自動制御連合講演会(SICE 60th), Japan. November 2017.

@@ -10,7 +10,7 @@ published: true
 1. S. Shibayama, H. Kaneko, K. Funatsu, A Novel Calibration-Minimum Method for Prediction of Mole Fraction in Non-Ideal Mixture, AAPS PharmSciTech, 2016.
 
 ## Presentation (internationoal conference)
-1. Shojiro SHIBAYAMA, Kimito FUNATSU, Applicability Domains of a Minimal-Calibration Model for Effective
+1. Shojiro SHIBAYAMA, Kimito FUNATSU, (poster) Applicability Domains of a Minimal-Calibration Model for Effective
 Online Monitoring of Pure Components’ Concentrations in the Pharmaceutical Continuous Manufacturing Processes, PSE2018, San Diego, Jul. 1-5, 2018
 
 ## Presentation

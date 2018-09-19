@@ -15,9 +15,10 @@ published: true
 Online Monitoring of Pure Components’ Concentrations in the Pharmaceutical Continuous Manufacturing Processes, PSE2018, San Diego, Jul. 1-5, 2018
 
 ## Presentation
-1. Development of a concentration prediction method using a statistical model and a small number of calibration samples, Shojiro SHIBAYAMA, Kimito FUNATSU. The 83rd annual meeting of Society Chemical Engineering of Japan.
+1. Optimization of monomer compositions with non-linear regression model for functional polymer design/機能性ポリマー設計のための非線形回帰手法を用いたモノマー配合比の最適化, Shojiro SHIBAYAMA, Kimito FUNATSU, the 50th autumn meeting by the Society of Chemical Engineering Japan.
+1. Development of a concentration prediction method using a statistical model and a small number of calibration samples, Shojiro SHIBAYAMA, Kimito FUNATSU. The 83rd annual meeting by the Society of Chemical Engineering Japan.
 1. 連続プロセスの効率的なオンライン監視のための波長選択および無相関化を組み合わせた濃度予測手法の開発 柴山 翔二郎，船津 公人. 第60回自動制御連合講演会(SICE 60th), Japan. November 2017.
-1. 連続プロセスの効率的なオンライン監視のための波長選択および無相関化を組み合わせた濃度予測手法の開発 柴山 翔二郎, 船津 公人. The 49th autumn conference of Japan Chemical Engineering Society, Japan. September 2017.
+1. 連続プロセスの効率的なオンライン監視のための波長選択および無相関化を組み合わせた濃度予測手法の開発 柴山 翔二郎, 船津 公人. The 49th autumn conference by the Society of Chemical Engineering Japan. September 2017.
 1. 赤外スペクトルを用いたプロセス監視のための波長選択手法 柴山 翔二郎, 金子 弘昌, 船津 公人. The 48th autumn conference of Japan Chemical Engineering Society, Japan. September 2016.
 1. 低コストで運用可能な赤外分光法を用いたプロセス監視手法の開発 柴山 翔二郎、金子 弘昌、船津 公人. The 22th PDA annual conference, Japan. December 2015.
 1. 赤外スペクトルデータを用いた混合溶液における純物質の濃度予測モデル構築手法の開発(ポスター) 柴山 翔二郎、金子 弘昌、船津 公人(Poster). The 38th Chemoinformatics conference, Japan. October 2015.

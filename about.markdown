@@ -34,6 +34,8 @@ I'm interested in mathmatical and statistical methods and chemical engineering, 
 - Worked as a teaching assistant for a lecture "computer chemistry exercise" at Department of Chemical System Engineering, the University of Tokyo, Apr.-Jul. 2015
 
 ## Grant
+- JSPS Research Fellowship (DC2) Apr. 2019-Mar.2021 (tentative schedule)
+- Public-Private Partnership Student Study Abroad Program TOBITATE! Young Ambassador Program, MOFA, 15.Oct.2018-31.Jul.2019 (temporary schedule)
 - SEUT B type from School of Engineering, the University of Tokyo. Apr 2018-Mar 2019
 - SEUT A type from School of Engineering, the University of Tokyo. Apr 2017-Mar 2018
 

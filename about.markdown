@@ -17,14 +17,14 @@ I'm interested in mathmatical and statistical methods and chemical engineering, 
 - Havnig driver license in Japan.
 
 ## Experience
-- A project researcher for [a CREST project](http://www.jst.go.jp/kisoken/crest/project/44/44_01.html), which is supported by Japan Science and Technology Agency (JST) in 2017.
-- Ph.D. candidate in Funatsu Laboratory at the University of Tokyo. Tokyo, April 2017-September 2018.
+- Ph.D. candidate in Funatsu Laboratory at the University of Tokyo. Tokyo, April 2017-now.
+- A project researcher for [a CREST project](http://www.jst.go.jp/kisoken/crest/project/44/44_01.html), which is supported by Japan Science and Technology Agency (JST) in March 2017-September 2018.
 - A researcher working for natural language processing in [Japan Business Systems Inc.](http://www.jbs.com/), Tokyo, Japan. March 2017-September 2018.
 - Software & server engineer working for [HIKARI Lab Inc.](https://www.hikarilab.co.jp/). May 2016-May 2018.
 - Research internship (called 'Practice School') at [Mitsubishi Chemical Inc.](https://www.m-chemical.co.jp/). July 2015-September 2015.
 - [Genestream Inc.](http://genestream.co.jp/) for software engineer internship. Tokyo, November 2012-April 2014.
 - [Ttime!](http://ut-ttime.net), engineering research promoting assistant, April 2012-July 2014.
-- Volunteer activity. Indonesia, Feburary 2012-March 2012.
+- Volunteer activity supported by AIESEC. Indonesia, Feburary 2012-March 2012.
 
 ## Educational Activity
 - Worked as a teaching assistant for a lecture "computer chemistry exercise" at Department of Chemical System Engineering, the University of Tokyo, Apr.-Jul. 2017

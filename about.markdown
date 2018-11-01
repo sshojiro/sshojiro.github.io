@@ -47,3 +47,7 @@ I'm interested in mathmatical and statistical methods and chemical engineering, 
 - The University of Tokyo, master degree of engineering. Department of Chemical System Engineering, School of Engineering. April 2015-March 2017.
 - The University of Tokyo, bachelor degree of engineering. Department of Chemical System Engineering, Faculty of Chemical System Engineering. April 2013-March 2015.
 - Azabu high school, Tokyo, Japan. April 2007-March 2010.
+
+## Miscellaneous
+
+- [OCRID](https://orcid.org/0000-0001-7815-0007)

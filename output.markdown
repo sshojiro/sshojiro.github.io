@@ -15,6 +15,9 @@ published: true
 Online Monitoring of Pure Components’ Concentrations in the Pharmaceutical Continuous Manufacturing Processes, PSE2018, San Diego, Jul. 1-5, 2018
 
 ## Presentation
+1. Development of a concentration prediction method based on deconvolution of infrared
+spectra for effective process monitoring in continuous processes/連続プロセスの効率的なオンライン監視のための赤外スペクトル分解手法を
+利用した濃度予測手法の開発, Shojiro SHIBAYAMA, Kimito FUNATSU, SICE 61th, Japan. November 2018.
 1. Optimization of monomer compositions with non-linear regression model for functional polymer design/機能性ポリマー設計のための非線形回帰手法を用いたモノマー配合比の最適化, Shojiro SHIBAYAMA, Kimito FUNATSU, the 50th autumn meeting by the Society of Chemical Engineering Japan.
 1. Development of a concentration prediction method using a statistical model and a small number of calibration samples, Shojiro SHIBAYAMA, Kimito FUNATSU. The 83rd annual meeting by the Society of Chemical Engineering Japan.
 1. 連続プロセスの効率的なオンライン監視のための波長選択および無相関化を組み合わせた濃度予測手法の開発 柴山 翔二郎，船津 公人. 第60回自動制御連合講演会(SICE 60th), Japan. November 2017.

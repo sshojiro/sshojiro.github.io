@@ -30,12 +30,12 @@ spectra for effective process monitoring in continuous processes/連続プロセ
 1. [第60回自動制御連合講演会, 優秀発表賞, 2017](http://www.sice.or.jp/rengo60/doc/award.html)
 
 ## Contributing work
-1. Launched and contribute to [Instruction of chemoinformatics](https://funatsu-lab.github.io/open-course-ware/)
+1. Launched and contributed to [Instruction of chemoinformatics](https://funatsu-lab.github.io/open-course-ware/)
 1. Modified and transported the app from a server to another: [HIKARI Lab Inc. website](https://www.hikarilab.co.jp)
 1. Launched [Funatsu Lab website](http://funatsu.t.u-tokyo.ac.jp)
 1. Launched [Ttime!web](http://ut-ttime.net)
-1. Implement a function of [Cu-hacker](https://cu-hacker.com)
-1. Rent a server and launched [My blog about IT contents](http://loudspeaker.sakura.ne.jp/devblog/)
+1. Implement functions of [Cu-hacker](https://cu-hacker.com)
+1. Rent a server and launched [My blog about IT contents](https://loudspeaker.sakura.ne.jp/devblog/)
 1. Launched [Kagaku-ya](http://kagakuya.com/)
 
 ## Online articles

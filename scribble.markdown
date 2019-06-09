@@ -6,5 +6,5 @@
   1. [AB test to estimate effects of two websites](https://nbviewer.jupyter.org/gist/sshojiro/7fed028defbb3fc30abd66462aee00c5/ab-test.ipynb)
   1. [Causal analysis for defects of space ship Challenger](https://nbviewer.jupyter.org/gist/sshojiro/7fed028defbb3fc30abd66462aee00c5/challenger_causal_analysis.ipynb)
   1. [Bayesian Gaussian Mixture Model](https://nbviewer.jupyter.org/gist/sshojiro/7fed028defbb3fc30abd66462aee00c5/bayesian-gaussian-mixture-model.ipynb)
-- [Chemoinformatics]
+- Chemoinformatics
   1. [Join two substructures on RDKit](https://nbviewer.jupyter.org/gist/sshojiro/6c4bcccdb2b73e12bbaeff4a8cd2e27b)

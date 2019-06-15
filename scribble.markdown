@@ -8,3 +8,5 @@
   1. [Bayesian Gaussian Mixture Model](https://nbviewer.jupyter.org/gist/sshojiro/7fed028defbb3fc30abd66462aee00c5/bayesian-gaussian-mixture-model.ipynb)
 - Chemoinformatics
   1. [Join two substructures on RDKit](https://nbviewer.jupyter.org/gist/sshojiro/6c4bcccdb2b73e12bbaeff4a8cd2e27b)
+- Notes about math, statistics, machine learning
+  1. [Features of Dirichlet distribution](https://sshojiro.github.io/publications/Dirichlet.pdf)

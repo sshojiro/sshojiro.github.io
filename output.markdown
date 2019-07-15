@@ -32,6 +32,7 @@ spectra for effective process monitoring in continuous processes/連続プロセ
 1. [第60回自動制御連合講演会, 優秀発表賞, 2017](http://www.sice.or.jp/rengo60/doc/award.html)
 
 ## Contributing work
+1. Published and maintaining a repo on github for [machine learning tool in Matlab](https://github.com/MatlabML/MatlabMachineLearning).
 1. Launched and contributed to [Instruction of chemoinformatics](https://funatsu-lab.github.io/open-course-ware/)
 1. Modified and transported the app from a server to another: [HIKARI Lab Inc. website](https://www.hikarilab.co.jp)
 1. Launched [Funatsu Lab website](http://funatsu.t.u-tokyo.ac.jp)

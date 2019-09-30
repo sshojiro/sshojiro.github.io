@@ -10,8 +10,8 @@ published: true
 1. S. Shibayama, H. Kaneko, K. Funatsu, A Novel Calibration-Minimum Method for Prediction of Mole Fraction in Non-Ideal Mixture, AAPS PharmSciTech, 2016.
 
 ## Presentation (with peer-review)
-1. S. Shibayama, K. Funatsu, Improvement of prediction errors based on standardized infrared spectra for a calibration-free approach, [APCChE](http://apcche2019.org) Sapporo, Hokkaido, September, 2019 (abstract acceptance so far)
-1. Scaling of excess absorption for accurate composition prediction with a minimal calibration method, Shojiro Shibayama, Kimito Funatsu, [NIR2019](http://www.nir2019.com/), the Gold Coast, Australia, September, 2019
+1. S. Shibayama, K. Funatsu, Improvement of prediction errors based on standardized infrared spectra for a calibration-free approach, [APCChE](http://apcche2019.org) Sapporo, Hokkaido, Sep. 23-27, 2019 (abstract acceptance so far)
+1. S. Shibayama, Kimito Funatsu, Scaling of excess absorption for accurate composition prediction with a minimal calibration method,  [NIR2019](http://www.nir2019.com/), the Gold Coast, Australia, Sep. 15-20, 2019
 1. S. Shibayama, C. Nakamoto, T. Shimizu, H. Takayanagi, M. Nishida, Study of classifier construction for business mail with distributed representation/分散表現を用いたビジネスメール自動分類器の検討, in: Software Engineering Symposium in Japan September 2018, pp. 257–258.
 1. Shojiro SHIBAYAMA, Kimito FUNATSU, (poster) Applicability Domains of a Minimal-Calibration Model for Effective
 Online Monitoring of Pure Components’ Concentrations in the Pharmaceutical Continuous Manufacturing Processes, PSE2018, San Diego, Jul. 1-5, 2018

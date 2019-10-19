@@ -6,9 +6,10 @@
   1. [AB test to estimate effects of two websites](https://nbviewer.jupyter.org/gist/sshojiro/7fed028defbb3fc30abd66462aee00c5/ab-test.ipynb)
   1. [Causal analysis for defects of space ship Challenger](https://nbviewer.jupyter.org/gist/sshojiro/7fed028defbb3fc30abd66462aee00c5/challenger_causal_analysis.ipynb)
   1. [Bayesian Gaussian Mixture Model](https://nbviewer.jupyter.org/gist/sshojiro/7fed028defbb3fc30abd66462aee00c5/bayesian-gaussian-mixture-model.ipynb)
-- Chemoinformatics
+- Cheminformatics
   1. [Join two substructures on RDKit](https://nbviewer.jupyter.org/gist/sshojiro/6c4bcccdb2b73e12bbaeff4a8cd2e27b)
   1. [Save a figure of SimilarityMaps](https://nbviewer.jupyter.org/gist/sshojiro/3b64ca54170b9bc632d3fe278ebeb93d)
   1. [Extract Linear Fragments](https://nbviewer.jupyter.org/gist/sshojiro/251d60898844c99bba51d85162933cc3)
+  1. [Easy Structure Generation -- BRICS](https://nbviewer.jupyter.org/gist/sshojiro/ffb4934a39b90779b3294c5e65682954)
 - Notes about math, statistics, machine learning
   1. [Features of Dirichlet distribution](https://sshojiro.github.io/publications/Dirichlet.pdf)

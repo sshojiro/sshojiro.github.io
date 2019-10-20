@@ -11,5 +11,6 @@
   1. [Save a figure of SimilarityMaps](https://nbviewer.jupyter.org/gist/sshojiro/3b64ca54170b9bc632d3fe278ebeb93d)
   1. [Extract Linear Fragments](https://nbviewer.jupyter.org/gist/sshojiro/251d60898844c99bba51d85162933cc3)
   1. [Easy Structure Generation -- BRICS](https://nbviewer.jupyter.org/gist/sshojiro/ffb4934a39b90779b3294c5e65682954)
+  1. [PLS Applicability Domains](https://nbviewer.jupyter.org/gist/sshojiro/9edc59bab229d0df2904a420c9c7bd29)
 - Notes about math, statistics, machine learning
   1. [Features of Dirichlet distribution](https://sshojiro.github.io/publications/Dirichlet.pdf)

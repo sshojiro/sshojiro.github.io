@@ -24,3 +24,7 @@ Support Vector Machines and Their Application in Chemistry and Biotechnology](ht
 Other contents:
 
 1. [Kyoto-U Open Course Ware - 伝わってしまうプレゼンテーション－その思考と技術－, 2019](https://ocw.kyoto-u.ac.jp/ja/opencourse/246)
+
+## External Library List.
+
+1. [Molecule Validation and Standardization](https://github.com/mcs07/MolVS)

@@ -17,6 +17,8 @@ published: true
 Online Monitoring of Pure Components’ Concentrations in the Pharmaceutical Continuous Manufacturing Processes, PSE2018, San Diego, Jul. 1-5, 2018
 
 ## Presentation
+1. Design of functional polymer resin with a small-sized dataset/少数データを活用した機能性ポリマー樹脂の設計, Shojiro SHIBAYAMA, Kimito FUNATSU (Poster), [Cheminformatics Autumn School in Japan](http://funatsu.t.u-tokyo.ac.jp/en/home/), Nara, Japan, November 2019.
+1. Design of functional polymer resin with a small-sized dataset/少数データを活用した機能性ポリマー樹脂の設計, Shojiro SHIBAYAMA, Kimito FUNATSU, [CICSJ 42th](https://www.jstage.jst.go.jp/article/ciqs/2019/0/2019_2A01/_article/-char/en), Tokyo, Japan, October 2019.
 1. Development of a concentration prediction method based on deconvolution of infrared
 spectra for effective process monitoring in continuous processes/連続プロセスの効率的なオンライン監視のための赤外スペクトル分解手法を
 利用した濃度予測手法の開発, Shojiro SHIBAYAMA, Kimito FUNATSU, SICE 61th, Japan. November 2018.

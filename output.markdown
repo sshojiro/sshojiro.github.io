@@ -31,7 +31,7 @@ spectra for effective process monitoring in continuous processes/連続プロセ
 1. 赤外スペクトルデータを用いた混合溶液における純物質の濃度予測モデル構築手法の開発(ポスター) 柴山 翔二郎、金子 弘昌、船津 公人(Poster). The 38th Chemoinformatics conference, Japan. October 2015.
 
 ## Award
-1. [CICSJ 42th, Excellent Oral Presentation Award (Student)/第42回ケモインフォマティクス討論会 学生優秀発表賞, 2019](http://cicsj.chemistry.or.jp/what-new.html)
+1. [CICSJ 42th, Excellent Oral Presentation Award (Student)/第42回ケモインフォマティクス討論会 学生優秀発表賞, 2019](http://cicsj.chemistry.or.jp/new.html)
 1. [第60回自動制御連合講演会, 優秀発表賞, 2017](http://www.sice.or.jp/rengo60/doc/award.html)
 
 ## Contributing work

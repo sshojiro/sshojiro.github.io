@@ -15,3 +15,4 @@
   1. [Ternary plot and Dirichlet MLE](https://nbviewer.jupyter.org/gist/sshojiro/ab86847b9c6705c25dbe11ba1baf260c)
 - Notes about math, statistics, machine learning
   1. [Features of Dirichlet distribution](https://sshojiro.github.io/publications/Dirichlet.pdf)
+  1. [Gensim word2vec vs. fastText in L2-norm](https://nbviewer.jupyter.org/gist/sshojiro/c8c6f6c9ae4646c94f568bb180e48cad)

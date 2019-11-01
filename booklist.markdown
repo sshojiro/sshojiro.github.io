@@ -24,6 +24,7 @@ Support Vector Machines and Their Application in Chemistry and Biotechnology](ht
 Other contents:
 
 1. [Kyoto-U Open Course Ware - 伝わってしまうプレゼンテーション－その思考と技術－, 2019](https://ocw.kyoto-u.ac.jp/ja/opencourse/246)
+1. [Academic Poster](https://www.uclan.ac.uk/students/assets/QRG-MS-PPT-Creating-Academic-Posters.pdf)
 
 ## External Library List.
 

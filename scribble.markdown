@@ -7,6 +7,7 @@
   1. [Causal analysis for defects of space ship Challenger](https://nbviewer.jupyter.org/gist/sshojiro/7fed028defbb3fc30abd66462aee00c5/challenger_causal_analysis.ipynb)
   1. [Bayesian Gaussian Mixture Model](https://nbviewer.jupyter.org/gist/sshojiro/7fed028defbb3fc30abd66462aee00c5/bayesian-gaussian-mixture-model.ipynb)
 - Cheminformatics
+  1. [Get SMILES for fragments extracted by Morgan algorithm](https://nbviewer.jupyter.org/gist/sshojiro/a6ce6bc3deed586b03e018dc1b0773b7/Morgan_fingerprint_fragments_revision.ipynb)
   1. [Join two substructures on RDKit](https://nbviewer.jupyter.org/gist/sshojiro/6c4bcccdb2b73e12bbaeff4a8cd2e27b)
   1. [Save a figure of SimilarityMaps](https://nbviewer.jupyter.org/gist/sshojiro/3b64ca54170b9bc632d3fe278ebeb93d)
   1. [Extract Linear Fragments](https://nbviewer.jupyter.org/gist/sshojiro/251d60898844c99bba51d85162933cc3)

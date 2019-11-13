@@ -18,3 +18,4 @@
   1. [Features of Dirichlet distribution](https://sshojiro.github.io/publications/Dirichlet.pdf)
   1. [Gensim word2vec vs. fastText in L2-norm](https://nbviewer.jupyter.org/gist/sshojiro/c8c6f6c9ae4646c94f568bb180e48cad)
   1. [Kernel PCA Demo](https://nbviewer.jupyter.org/gist/sshojiro/261ee50324e59cc21ddd1d80e04e7f3e)
+  1. [Linear SVM - basic implementation](https://nbviewer.jupyter.org/gist/sshojiro/59b8b88c5fb312eac6c04a5d93f099f1)

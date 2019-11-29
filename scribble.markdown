@@ -14,6 +14,7 @@
   1. [Easy Structure Generation -- BRICS](https://nbviewer.jupyter.org/gist/sshojiro/ffb4934a39b90779b3294c5e65682954)
   1. [PLS Applicability Domains](https://nbviewer.jupyter.org/gist/sshojiro/9edc59bab229d0df2904a420c9c7bd29)
   1. [Ternary plot and Dirichlet MLE](https://nbviewer.jupyter.org/gist/sshojiro/ab86847b9c6705c25dbe11ba1baf260c)
+  1. [log S prediction with Random Forest](https://nbviewer.jupyter.org/gist/sshojiro/3da3b41931e82480496f0781c811b4ad#file-logs_analysis-ipynb)
 - Notes about math, statistics, machine learning
   1. [Features of Dirichlet distribution](https://sshojiro.github.io/publications/Dirichlet.pdf)
   1. [Gensim word2vec vs. fastText in L2-norm](https://nbviewer.jupyter.org/gist/sshojiro/c8c6f6c9ae4646c94f568bb180e48cad)

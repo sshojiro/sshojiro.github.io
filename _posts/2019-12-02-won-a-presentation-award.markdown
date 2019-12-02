@@ -1,7 +1,5 @@
 ---
-published: false
----
----
+published: true
 title: 第42回ケモインフォマティクス討論会で学生優秀発表賞を受賞しました
 ---
 

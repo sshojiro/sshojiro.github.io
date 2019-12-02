@@ -1,9 +1,7 @@
 ---
-published: false
----
----
 published: true
 ---
+
 ## LaTeX Envinronment
 
 LaTeX environment setup is illustrated in the following articles.

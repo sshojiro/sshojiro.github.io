@@ -13,6 +13,7 @@
   1. [Extract Linear Fragments](https://nbviewer.jupyter.org/gist/sshojiro/251d60898844c99bba51d85162933cc3)
   1. [Easy Structure Generation -- BRICS](https://nbviewer.jupyter.org/gist/sshojiro/ffb4934a39b90779b3294c5e65682954)
   1. [PLS Applicability Domains](https://nbviewer.jupyter.org/gist/sshojiro/9edc59bab229d0df2904a420c9c7bd29)
+  1. [GPR Estimation of Solubility](https://nbviewer.jupyter.org/gist/sshojiro/f99c873d503ca866d223880ff8755bec#file-gpr-ipynb)
   1. [Ternary plot and Dirichlet MLE](https://nbviewer.jupyter.org/gist/sshojiro/ab86847b9c6705c25dbe11ba1baf260c)
   1. [log S prediction with Random Forest](https://nbviewer.jupyter.org/gist/sshojiro/3da3b41931e82480496f0781c811b4ad#file-logs_analysis-ipynb)
 - Notes about math, statistics, machine learning

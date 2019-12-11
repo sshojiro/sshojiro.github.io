@@ -20,6 +20,8 @@ Support Vector Machines and Their Application in Chemistry and Biotechnology](ht
 1. [プロセス制御工学](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E5%88%B6%E5%BE%A1%E5%B7%A5%E5%AD%A6-%E6%A9%8B%E6%9C%AC-%E4%BC%8A%E7%B9%94/dp/4254250312/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E5%88%B6%E5%BE%A1&qid=1555515558&s=gateway&sr=8-1) (a textbook about process control in Japanese)
 1. [異常検知と変化検知](https://www.amazon.co.jp/%E7%95%B0%E5%B8%B8%E6%A4%9C%E7%9F%A5%E3%81%A8%E5%A4%89%E5%8C%96%E6%A4%9C%E7%9F%A5-%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E4%BA%95%E6%89%8B-%E5%89%9B/dp/4061529080/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E7%95%B0%E5%B8%B8%E6%A4%9C%E7%9F%A5&qid=1556132820&s=books&sr=1-1) by 井手 剛 and 杉山 将
 1. [Pythonで体験するベイズ推論 PyMCによるMCMC入門](https://www.amazon.co.jp/Python%E3%81%A7%E4%BD%93%E9%A8%93%E3%81%99%E3%82%8B%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E8%AB%96-PyMC%E3%81%AB%E3%82%88%E3%82%8BMCMC%E5%85%A5%E9%96%80-%E3%82%AD%E3%83%A3%E3%83%A1%E3%83%AD%E3%83%B3-%E3%83%87%E3%83%93%E3%83%83%E3%83%89%E3%82%BD%E3%83%B3-%E3%83%94%E3%83%AD%E3%83%B3/dp/4627077912) by キャメロン デビッドソン=ピロン, and 玉木 徹(翻訳)
+1. [はじめての制御工学](https://www.kspub.co.jp/book/detail/5137475.html?fbclid=IwAR1oMpnnztHrofFpo0z61rQWi04KdB0QeoTMc4mxhj-x9st5CFhnFmwmDWQ)
+1. [よくわかる実験計画法](https://www.amazon.co.jp/dp/product/476491042X/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=476491042X&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_login-22) 例示が多いので実験計画法を端的に理解したい人はこれ。理論的な部分と、応答局面法の記述は薄い。
 
 Other contents:
 

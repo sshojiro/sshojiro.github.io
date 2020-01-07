@@ -1,6 +1,8 @@
 ---
 published: true
 title: The full names of cheminformatics descriptors
+categories:
+  - cheminfo
 ---
 ## A New Post
 
@@ -12,4 +14,5 @@ title: The full names of cheminformatics descriptors
 
 
 [1] [Database fingerprint (DFP): an approach to represent molecular databases](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-017-0195-1)
+
 [2] [MOLSIS](https://www.molsis.co.jp/datamanagement/daylight/smiles/)

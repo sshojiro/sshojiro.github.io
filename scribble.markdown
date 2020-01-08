@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /scribble/
+published: true
 ---
 
 ## Scribble
@@ -21,6 +22,7 @@ permalink: /scribble/
   1. [GPR Estimation of Solubility](https://nbviewer.jupyter.org/gist/sshojiro/f99c873d503ca866d223880ff8755bec#file-gpr-ipynb)
   1. [Ternary plot and Dirichlet MLE](https://nbviewer.jupyter.org/gist/sshojiro/ab86847b9c6705c25dbe11ba1baf260c)
   1. [log S prediction with Random Forest](https://nbviewer.jupyter.org/gist/sshojiro/3da3b41931e82480496f0781c811b4ad#file-logs_analysis-ipynb)
+  1. [Attributes Retreival from Pymatgen Element Class](https://nbviewer.jupyter.org/gist/sshojiro/38114aef152607abdefb3d0201cbeaf4)
 - Notes about math, statistics, machine learning
   1. [Features of Dirichlet distribution](https://sshojiro.github.io/publications/Dirichlet.pdf)
   1. [Gensim word2vec vs. fastText in L2-norm](https://nbviewer.jupyter.org/gist/sshojiro/c8c6f6c9ae4646c94f568bb180e48cad)

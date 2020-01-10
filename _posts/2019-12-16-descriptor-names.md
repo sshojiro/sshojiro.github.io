@@ -10,6 +10,7 @@ categories:
 - [List of Dragon descriptors - PDF](http://www.talete.mi.it/products/dragon_molecular_descriptor_list.pdf)
 - Full name of MACCS key is: "Molecular ACCess System (MACCS) keys" [1]
 - Simplified Molecular Input Line Entry System (SMILES) [2]
+  - [SMILES, a chemical language and information system. 1. Introduction to methodology and encoding rules](https://pubs.acs.org/doi/abs/10.1021/ci00057a005)
 - SMiles ARbitrary Target Specification [2]
 
 

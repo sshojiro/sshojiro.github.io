@@ -25,8 +25,10 @@ published: true
   1. [log S prediction with Random Forest](https://nbviewer.jupyter.org/gist/sshojiro/3da3b41931e82480496f0781c811b4ad#file-logs_analysis-ipynb)
   1. [Tanimoto kernel is better than Dice kernel.](https://nbviewer.jupyter.org/gist/sshojiro/df674af517f3447770f1d28d0287a3a2)
   1. [Attributes Retreival from Pymatgen Element Class](https://nbviewer.jupyter.org/gist/sshojiro/38114aef152607abdefb3d0201cbeaf4)
+  1. [Failed to fit GPR to the data; full-scratch](https://nbviewer.jupyter.org/gist/sshojiro/360aaea5b8ed3133c6c1d491f2d2ece6)
 - Notes about math, statistics, machine learning
   1. [Features of Dirichlet distribution](https://sshojiro.github.io/publications/Dirichlet.pdf)
   1. [Gensim word2vec vs. fastText in L2-norm](https://nbviewer.jupyter.org/gist/sshojiro/c8c6f6c9ae4646c94f568bb180e48cad)
   1. [Kernel PCA Demo](https://nbviewer.jupyter.org/gist/sshojiro/261ee50324e59cc21ddd1d80e04e7f3e)
   1. [Linear SVM - basic implementation](https://nbviewer.jupyter.org/gist/sshojiro/59b8b88c5fb312eac6c04a5d93f099f1)
+  1. [SVR contribution calculation derived by the differentiation](https://nbviewer.jupyter.org/gist/sshojiro/a89b83a088d1747d3b974e02b30386f9)

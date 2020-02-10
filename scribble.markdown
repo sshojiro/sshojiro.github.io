@@ -31,4 +31,4 @@ published: true
   1. [Gensim word2vec vs. fastText in L2-norm](https://nbviewer.jupyter.org/gist/sshojiro/c8c6f6c9ae4646c94f568bb180e48cad)
   1. [Kernel PCA Demo](https://nbviewer.jupyter.org/gist/sshojiro/261ee50324e59cc21ddd1d80e04e7f3e)
   1. [Linear SVM - basic implementation](https://nbviewer.jupyter.org/gist/sshojiro/59b8b88c5fb312eac6c04a5d93f099f1)
-  1. [SVR contribution calculation derived by the differentiation](https://nbviewer.jupyter.org/gist/sshojiro/a89b83a088d1747d3b974e02b30386f9)
+  1. [SVR contribution calculation derived by the differentiation](https://nbviewer.jupyter.org/gist/sshojiro/8f6051e6629f709e4aeb247f0b8b5dd4)

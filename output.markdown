@@ -5,12 +5,14 @@ permalink: /output/
 published: true
 ---
 ## Publication
+1. S. Shibayama, G. Marcou, D. Horvath, I. I. Baskin, K. Funatsu, A. Varnek, Molecular Informatics Application of the mol2vec technology to large-size data visualization and analysis, Molecular Informatics, 39 (2020) 1900170. doi:10.1002/minf.201900170.
 1. S. Shibayama, H. Kaneko, K. Funatsu, Formulation of excess absorption in infrared spectra by numerical decomposition to allow effective process monitoring, Computers & Chemical Engineering, 113, 86-97, 2018.
 1. S. Shibayama, H. Kaneko, K. Funatsu, Iterative Optimization Technology Combined with Wavelength Selection Based on Excess Absorption for a Process Analytical Technology Calibration-Minimum Approach, Chemometrics and Intelligent Laboratory Systems, 156, 137-147, 2016.
 1. S. Shibayama, H. Kaneko, K. Funatsu, A Novel Calibration-Minimum Method for Prediction of Mole Fraction in Non-Ideal Mixture, AAPS PharmSciTech, 2016.
 
 ## Presentation (with peer-review)
-1. S. Shiabyama, K. Funatsu, [ANS 2020](https://www.eng.rmuti.ac.th/ans2020/), paper accepted, Khon Kaen, Thai, Feb. 13-14, 2020
+1. S. Shiabyama, K. Funatsu, Dirichlet-PLS – mathematically reasonable prediction of
+concentrations, [ANS 2020](https://www.eng.rmuti.ac.th/ans2020/information/conference-program), : , Khon Kaen, Thai, Feb. 13-14, 2020
 1. S. Shibayama, K. Funatsu, Improvement of prediction errors based on standardized infrared spectra for a calibration-free approach, [APCChE](http://apcche2019.org) Sapporo, Hokkaido, Sep. 23-27, 2019
 1. S. Shibayama, Kimito Funatsu, Scaling of excess absorption for accurate composition prediction with a minimal calibration method,  [NIR2019](http://www.nir2019.com/), the Gold Coast, Australia, Sep. 15-20, 2019
 1. S. Shibayama, C. Nakamoto, T. Shimizu, H. Takayanagi, M. Nishida, Study of classifier construction for business mail with distributed representation/分散表現を用いたビジネスメール自動分類器の検討, in: Software Engineering Symposium in Japan September 2018, pp. 257–258.

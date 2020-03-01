@@ -3,6 +3,7 @@ published: true
 categories:
   - research
   - cheminformatics
+title: Our paper is now available online
 ---
 ## Our mol2vec paper is now available!
 

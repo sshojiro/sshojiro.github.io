@@ -17,7 +17,8 @@ I'm interested in mathmatical and statistical methods and chemical engineering, 
 - Havnig driver license in Japan.
 
 ## Experience
-- Ph.D. candidate in Funatsu Laboratory at the University of Tokyo. Tokyo, April 2017-now.
+- Ph.D. candidate in Funatsu Laboratory at the University of Tokyo. Tokyo, April 2017-Marchi 2020.
+- Tobitate scholarship student, research stay at Strasbourg University, October 2018-March 2019.
 - A project researcher for [a CREST project](http://www.jst.go.jp/kisoken/crest/project/44/44_01.html), which is supported by Japan Science and Technology Agency (JST) in March 2017-September 2018.
 - A researcher working for natural language processing in [Japan Business Systems Inc.](http://www.jbs.com/), Tokyo, Japan. March 2017-September 2018.
 - Software & server engineer working for [HIKARI Lab Inc.](https://www.hikarilab.co.jp/). May 2016-May 2018.

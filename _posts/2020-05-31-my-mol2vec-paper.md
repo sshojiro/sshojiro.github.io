@@ -1,5 +1,7 @@
 ---
 published: true
+categories:
+  - cheminformatics
 ---
 ## 研究紹介 - mol2vec
 
@@ -37,4 +39,3 @@ mol2vecを使う点は以下の通りです。
 引用していただけると幸いです。
 
 > Shojiro Shibayama, Gilles Marcou,  Dragos Horvath,  Igor I. Baskin,  Kimito Funatsu, Alexandre Varnek, Application of the mol2vec Technology to Large‐size Data Visualization and Analysis, Molecular Informatics, 2020, 39, 1900170
-

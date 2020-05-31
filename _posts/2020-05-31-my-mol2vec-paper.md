@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 ---
-## 研究紹介
+## 研究紹介 - mol2vec
 
 本日は日本語で研究成果の紹介を書いてみます。
 

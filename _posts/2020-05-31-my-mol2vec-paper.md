@@ -16,9 +16,11 @@ title: 研究紹介 - Mol2Vecの大規模データへの適用
 
 mol2vecという技術を使ってフラグメント記述子（部分構造の出現回数）を取り出し、
 機械学習を用いた予測に用いるというものです。
-先行研究には以下のものがあります。
+先行研究には以下のものがあります（発表された順）。
 
-- [Mol2vec: Unsupervised Machine Learning Approach with Chemical Intuition](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00616?src=recsys)
+1. [Mol2vec: Unsupervised Machine Learning Approach with Chemical Intuition](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00616?src=recsys)
+1. [Distributed Representation of Chemical Fragments]( https://doi.org/10.1021/acsomega.7b02045)
+1. [Evaluating Polymer Representations via Quantifying Structure–Property Relationships](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00358)
 
 重要なのは、mol2vecでは部分構造の周辺に位置する部分構造を取り出し3層のニューラルネットワークを
 構築する点です。隠れ層がmol2vecの計算結果で、入力層と出力層では部分構造に対応するone-hotベクトル
@@ -42,6 +44,7 @@ mol2vecを使う利点は以下の通りです。
 一方で、現在認識している今後の課題としては以下の点が挙げられます。
 
 1. Morgan fingerprintを利用するとき部分構造の正しい並び順を学習していない [github](https://github.com/samoturk/mol2vec)。RDKitというライブラリの部分構造取り出しアルゴリズムに従っている。大規模データによって軽減されているのかもしれないが、基本的には部分構造の並び順を一部無視している。
+1. 回帰分析には必ずしも利用できない。分類であれば次元削減で似た分子に似たベクトルを割り当てられるが、回帰分析の場合も同様に扱えるかというと、検証が必要である。
 
 ### 最後に
 

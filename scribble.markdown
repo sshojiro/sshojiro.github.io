@@ -33,3 +33,7 @@ published: true
   1. [Kernel PCA Demo](https://nbviewer.jupyter.org/gist/sshojiro/261ee50324e59cc21ddd1d80e04e7f3e)
   1. [Linear SVM - basic implementation](https://nbviewer.jupyter.org/gist/sshojiro/59b8b88c5fb312eac6c04a5d93f099f1)
   1. [SVR contribution calculation derived by the differentiation](https://nbviewer.jupyter.org/gist/sshojiro/8f6051e6629f709e4aeb247f0b8b5dd4)
+
+- Documents (PDFs)
+  1. [Dirichlet distribution](https://sshojiro.github.io/publications/Dirichlet.pdf)
+  1. [Expected improvement for Bayes optimization (ja)](https://sshojiro.github.io/publications/ei.pdf)

@@ -17,7 +17,7 @@ concentrations, [ANS 2020](https://www.eng.rmuti.ac.th/ans2020/information/confe
 1. S. Shibayama, Kimito Funatsu, Scaling of excess absorption for accurate composition prediction with a minimal calibration method,  [NIR2019](http://www.nir2019.com/), the Gold Coast, Australia, Sep. 15-20, 2019
 1. S. Shibayama, C. Nakamoto, T. Shimizu, H. Takayanagi, M. Nishida, Study of classifier construction for business mail with distributed representation/分散表現を用いたビジネスメール自動分類器の検討, in: Software Engineering Symposium in Japan September 2018, pp. 257–258.
 1. S. Shibayama, Kimito FUNATSU, (poster) Applicability Domains of a Minimal-Calibration Model for Effective
-Online Monitoring of Pure Components’ Concentrations in the Pharmaceutical Continuous Manufacturing Processes, PSE2018, San Diego, Jul. 1-5, 2018
+Online Monitoring of Pure Components’ Concentrations in the Pharmaceutical Continuous Manufacturing Processes, [PSE2018](https://sercuarc.org/event/process-systems-engineering-pse-2018/)[proceedings](https://www.elsevier.com/books/13th-international-symposium-on-process-systemsengineering-pse-2018-july-1-5-2018/eden/978-0-444-64241-7), San Diego, Jul. 1-5, 2018
 
 ## Presentation
 1. Design of functional polymer resin with a small-sized dataset/少数データを活用した機能性ポリマー樹脂の設計, Shojiro Shibayama, Kimito FUNATSU (Poster), [Cheminformatics Autumn School in Japan](http://funatsu.t.u-tokyo.ac.jp/en/home/), Nara, Japan, November 2019.

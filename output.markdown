@@ -37,6 +37,9 @@ spectra for effective process monitoring in continuous processes/連続プロセ
 1. [CICSJ 42th, Excellent Oral Presentation Award (Student)/第42回ケモインフォマティクス討論会 学生優秀発表賞, 2019](http://cicsj.chemistry.or.jp/new.html)
 1. [第60回自動制御連合講演会, 優秀発表賞, 2017](http://www.sice.or.jp/rengo60/doc/award.html)
 
+## Book (Japanese)
+1. [実践 マテリアルズインフォマティクス](https://amzn.to/3dSszJL)
+
 ## Contributing work
 1. Published and maintaining a repo on github for [machine learning tool in Matlab](https://github.com/MatlabML/MatlabMachineLearning).
 1. Launched and contributed to [Instruction of chemoinformatics](https://funatsu-lab.github.io/open-course-ware/)

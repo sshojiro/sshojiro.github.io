@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Scribble
 permalink: /scribble/
 published: true
 ---

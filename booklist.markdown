@@ -9,19 +9,19 @@ published: true
 
 I read as textbooks in my fields:
 
-1. [Support Vector Machine In Chemistry](https://www.amazon.com/Support-Vector-Machine-Chemistry-Nianyi/dp/9812389229) by Nianyi Chen, Wencong Lu, Jie Yang, Guozheng Li
+1. [Support Vector Machine In Chemistry](https://amzn.to/2CE8OZy) by Nianyi Chen, Wencong Lu, Jie Yang, Guozheng Li
 1. [
-Support Vector Machines and Their Application in Chemistry and Biotechnology](https://www.crcpress.com/Support-Vector-Machines-and-Their-Application-in-Chemistry-and-Biotechnology/Liang-Xu-Li-Cao/p/book/9781439821275) by Yizeng Liang, Qing-Song Xu, Hong-Dong Li, Dong-Sheng Cao
-1. [Prediction of Polymer Properties, 3rd edition, 2002](https://www.crcpress.com/Prediction-of-Polymer-Properties/Bicerano/p/book/9780824708214) by J. Bicerano
-1. [Ensemble Methods: Foundations and Algorithms](http://www2.islab.ntua.gr/attachments/article/86/Ensemble%20methods%20-%20Zhou.pdf) by Z-H. Zhou
-1. [新しい量子化学―電子構造の理論入門〈上〉](https://www.amazon.co.jp/%E6%96%B0%E3%81%97%E3%81%84%E9%87%8F%E5%AD%90%E5%8C%96%E5%AD%A6%E2%80%95%E9%9B%BB%E5%AD%90%E6%A7%8B%E9%80%A0%E3%81%AE%E7%90%86%E8%AB%96%E5%85%A5%E9%96%80%E3%80%88%E4%B8%8A%E3%80%89-Attila-Szabo/dp/4130621114/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=ZB4R0X586TSNFXRVFF9Q) by Attila Szabo, Neil S. Ostlund et al.
-1. [新しい量子化学―電子構造の理論入門〈下〉](https://www.amazon.co.jp/%E6%96%B0%E3%81%97%E3%81%84%E9%87%8F%E5%AD%90%E5%8C%96%E5%AD%A6%E2%80%95%E9%9B%BB%E5%AD%90%E6%A7%8B%E9%80%A0%E3%81%AE%E7%90%86%E8%AB%96%E5%85%A5%E9%96%80%E3%80%88%E4%B8%8B%E3%80%89-%E3%82%B6%E3%83%9C/dp/4130621122) by Attila Szabo, Neil S. Ostlund et al.
-1. [ベイズ推論による機械学習入門](https://www.amazon.co.jp/dp/B07L2V4H59/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by 須山 敦志 (a textbook about Bayesian inference for machine learing in Japanese)
-1. [プロセス制御工学](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E5%88%B6%E5%BE%A1%E5%B7%A5%E5%AD%A6-%E6%A9%8B%E6%9C%AC-%E4%BC%8A%E7%B9%94/dp/4254250312/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E5%88%B6%E5%BE%A1&qid=1555515558&s=gateway&sr=8-1) (a textbook about process control in Japanese)
-1. [異常検知と変化検知](https://www.amazon.co.jp/%E7%95%B0%E5%B8%B8%E6%A4%9C%E7%9F%A5%E3%81%A8%E5%A4%89%E5%8C%96%E6%A4%9C%E7%9F%A5-%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E4%BA%95%E6%89%8B-%E5%89%9B/dp/4061529080/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E7%95%B0%E5%B8%B8%E6%A4%9C%E7%9F%A5&qid=1556132820&s=books&sr=1-1) by 井手 剛 and 杉山 将
-1. [Pythonで体験するベイズ推論 PyMCによるMCMC入門](https://www.amazon.co.jp/Python%E3%81%A7%E4%BD%93%E9%A8%93%E3%81%99%E3%82%8B%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E8%AB%96-PyMC%E3%81%AB%E3%82%88%E3%82%8BMCMC%E5%85%A5%E9%96%80-%E3%82%AD%E3%83%A3%E3%83%A1%E3%83%AD%E3%83%B3-%E3%83%87%E3%83%93%E3%83%83%E3%83%89%E3%82%BD%E3%83%B3-%E3%83%94%E3%83%AD%E3%83%B3/dp/4627077912) by キャメロン デビッドソン=ピロン, and 玉木 徹(翻訳)
-1. [はじめての制御工学](https://www.kspub.co.jp/book/detail/5137475.html?fbclid=IwAR1oMpnnztHrofFpo0z61rQWi04KdB0QeoTMc4mxhj-x9st5CFhnFmwmDWQ)
-1. [よくわかる実験計画法](https://www.amazon.co.jp/dp/product/476491042X/ref=as_li_tf_tl?camp=247&creative=1211&creativeASIN=476491042X&ie=UTF8&linkCode=as2&tag=bookmeter_book_image_image_pc_login-22) 例示が多いので実験計画法を端的に理解したい人はこれ。理論的な部分と、応答局面法の記述は薄い。
+Support Vector Machines and Their Application in Chemistry and Biotechnology](https://amzn.to/32piaTU) by Yizeng Liang, Qing-Song Xu, Hong-Dong Li, Dong-Sheng Cao
+1. [Prediction of Polymer Properties, 3rd edition, 2002](https://amzn.to/3eFuhi8) by J. Bicerano
+1. [Ensemble Methods: Foundations and Algorithms](https://amzn.to/3fB8uJp) by Z-H. Zhou
+1. [新しい量子化学―電子構造の理論入門〈上〉](https://amzn.to/2WoSF10) by Attila Szabo, Neil S. Ostlund et al.
+1. [新しい量子化学―電子構造の理論入門〈下〉](https://amzn.to/2ZCNeOd) by Attila Szabo, Neil S. Ostlund et al.
+1. [ベイズ推論による機械学習入門](https://amzn.to/2CIjeYc) by 須山 敦志 (a textbook about Bayesian inference for machine learing in Japanese)
+1. [プロセス制御工学](https://amzn.to/2OwhpzW) (a textbook about process control in Japanese)
+1. [異常検知と変化検知](https://amzn.to/38YOKgz) by 井手 剛 and 杉山 将
+1. [Pythonで体験するベイズ推論 PyMCによるMCMC入門](https://amzn.to/3jfNQRF) by キャメロン デビッドソン=ピロン, and 玉木 徹(翻訳)
+1. [はじめての制御工学](https://amzn.to/2OHB4NL)
+1. [よくわかる実験計画法](https://amzn.to/2CghpSf) 例示が多いので実験計画法を端的に理解したい人はこれ。理論的な部分と、応答局面法の記述は薄い。
 
 Other contents:
 

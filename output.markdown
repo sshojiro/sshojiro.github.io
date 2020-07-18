@@ -45,7 +45,7 @@ spectra for effective process monitoring in continuous processes/連続プロセ
 1. Launched and contributed to [Instruction of chemoinformatics](https://funatsu-lab.github.io/open-course-ware/)
 1. Modified and transported the app from a server to another: [HIKARI Lab Inc. website](https://www.hikarilab.co.jp)
 1. Launched [Funatsu Lab website](http://funatsu.t.u-tokyo.ac.jp)
-1. Launched [Ttime!web](http://ut-ttime.net)
+1. Launched [Ttime!web](http://ut-ttime.net). Migrated an older version of the site to [a new page](https://ut-ttime.net) hosted by Github on 2020 March.
 1. Implement functions of [Cu-hacker](https://cu-hacker.com)
 1. Rent a server and launched [My blog about IT contents](https://loudspeaker.sakura.ne.jp/devblog/)
 1. Launched [Kagaku-ya](http://kagakuya.com/)

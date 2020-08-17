@@ -5,6 +5,8 @@ permalink: /about/
 published: true
 ---
 
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/sshojiro/contributions.svg)](http://qiita.com/sshojiro)
+
 ## Research Interests
 I'm interested in mathmatical and statistical methods and chemical engineering, especially shallow learning or theorem-based calibration methods.
 

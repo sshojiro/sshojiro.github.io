@@ -19,7 +19,8 @@ I'm interested in mathmatical and statistical methods and chemical engineering, 
 - Havnig driver license in Japan.
 
 ## Experience
-- Ph.D. candidate in Funatsu Laboratory at the University of Tokyo. Tokyo, April 2017-Marchi 2020.
+- Postdoc fellow in Funatsu Laboratory at the University of Tokyo. Tokyo, April 2020-September 2020.
+- Ph.D. candidate in Funatsu Laboratory at the University of Tokyo. Tokyo, April 2017-March 2020.
 - Tobitate scholarship student, research stay at Strasbourg University, October 2018-March 2019.
 - A project researcher for [a CREST project](http://www.jst.go.jp/kisoken/crest/project/44/44_01.html), which is supported by Japan Science and Technology Agency (JST) in March 2017-September 2018.
 - A researcher working for natural language processing in [Japan Business Systems Inc.](http://www.jbs.com/), Tokyo, Japan. March 2017-September 2018.
@@ -44,10 +45,12 @@ I'm interested in mathmatical and statistical methods and chemical engineering, 
 - SEUT A type from School of Engineering, the University of Tokyo. Apr 2017-Mar 2018 (1440000 JPY)
 
 ## Research Visits
+- Prof. Varnek's team, supervised by both Dr. Horvath and Prof. Varnek at Strasbourg University, 15.Oct.2018-15.Mar.2019.
 - Visited Assitant Professor Goto in Ozaki group at Kwansei University. May 2016.
 - MIT Workshop provided by School of Engineering, the University of Tokyo [Overview](https://www.ee.t.u-tokyo.ac.jp/~eejim/2015_s1s2/abroad/20150526_mit.pdf). September 2015.
 
 ## Education
+- The University of Tokyo, Ph.D. degree of engineering (Dr. Eng.). Department of Chemical System Engineering, School of Engineering. April 2017-March 2020.
 - The University of Tokyo, master degree of engineering. Department of Chemical System Engineering, School of Engineering. April 2015-March 2017.
 - The University of Tokyo, bachelor degree of engineering. Department of Chemical System Engineering, Faculty of Chemical System Engineering. April 2013-March 2015.
 - Azabu high school, Tokyo, Japan. April 2007-March 2010.

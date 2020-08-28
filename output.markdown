@@ -50,6 +50,9 @@ spectra for effective process monitoring in continuous processes/連続プロセ
 1. Rent a server and launched [My blog about IT contents](https://loudspeaker.sakura.ne.jp/devblog/)
 1. Launched [Kagaku-ya](http://kagakuya.com/)
 
+## Pull requests on Github
+1. [UGTM - Generative Topograhic Mapping in Python; Implemented inverse_transform method](https://github.com/hagax8/ugtm/pull/12)
+
 ## Online articles
 1. [Qiita (in Japanese)](https://qiita.com/sshojiro)
 1. [Github Gist](https://gist.github.com/sshojiro)

@@ -29,6 +29,7 @@ published: true
   1. [Failed to fit GPR to the data; full-scratch](https://nbviewer.jupyter.org/gist/sshojiro/360aaea5b8ed3133c6c1d491f2d2ece6)
   1. [Bayesian optimization for sample aquisition in QSPR projects](https://nbviewer.jupyter.org/gist/sshojiro/06c9ccd9cab75cf0cb638cf7ad3e0447)
 - Soft-sensors
+  1. [Four datasets overview](https://nbviewer.jupyter.org/gist/sshojiro/677938bfdd1d4842e18544ea8d47a4c0)
   1. [Just-in-Time modeling](https://nbviewer.jupyter.org/gist/sshojiro/c1142f5964f5229570c74bea9d30f3a9)
 - Notes about math, statistics, machine learning
   1. [Features of Dirichlet distribution](https://sshojiro.github.io/publications/Dirichlet.pdf)

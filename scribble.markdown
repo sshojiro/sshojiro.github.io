@@ -28,6 +28,8 @@ published: true
   1. [Attributes Retreival from Pymatgen Element Class](https://nbviewer.jupyter.org/gist/sshojiro/38114aef152607abdefb3d0201cbeaf4)
   1. [Failed to fit GPR to the data; full-scratch](https://nbviewer.jupyter.org/gist/sshojiro/360aaea5b8ed3133c6c1d491f2d2ece6)
   1. [Bayesian optimization for sample aquisition in QSPR projects](https://nbviewer.jupyter.org/gist/sshojiro/06c9ccd9cab75cf0cb638cf7ad3e0447)
+- Soft-sensors
+  1. [Just-in-Time modeling](https://nbviewer.jupyter.org/gist/sshojiro/c1142f5964f5229570c74bea9d30f3a9)
 - Notes about math, statistics, machine learning
   1. [Features of Dirichlet distribution](https://sshojiro.github.io/publications/Dirichlet.pdf)
   1. [Gensim word2vec vs. fastText in L2-norm](https://nbviewer.jupyter.org/gist/sshojiro/c8c6f6c9ae4646c94f568bb180e48cad)

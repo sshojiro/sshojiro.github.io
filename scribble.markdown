@@ -33,6 +33,7 @@ published: true
   1. [Just-in-Time modeling](https://nbviewer.jupyter.org/gist/sshojiro/c1142f5964f5229570c74bea9d30f3a9)
 - OpenCV and other image processing
   1. [Rotation of a checkered square after detection of edge lines](https://nbviewer.jupyter.org/gist/sshojiro/70a9e267e73824b4594d9a99c663442f)
+  1. [Canny Edge Detection on Jupyter Notebook](https://nbviewer.jupyter.org/gist/sshojiro/2feba08581e87179cf648a84d0947f05)
 - Notes about math, statistics, machine learning
   1. [Features of Dirichlet distribution](https://sshojiro.github.io/publications/Dirichlet.pdf)
   1. [Gensim word2vec vs. fastText in L2-norm](https://nbviewer.jupyter.org/gist/sshojiro/c8c6f6c9ae4646c94f568bb180e48cad)

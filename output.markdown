@@ -5,6 +5,7 @@ permalink: /output/
 published: true
 ---
 ## Publication
+1. S. Shibayama, K. Funatsu, Investigation of Preprocessing and Validation Methodologies for PAT: Case Study of the Granulation and Coating Steps for the Manufacturing of Ethenzamide Tablets. AAPS PharmSciTech, 22, 41, 2021,  [webpage](https://doi.org/10.1208/s12249-020-01911-w).
 1. S. Shibayama, K. Funatsu, Industrial Case Study: Identification of Important Substructures and Exploration of Monomers for the Rapid Design of Novel Network Polymers with Distributed Representation, Bulletin of the Chemical Society of Japan, 94 (1), 112-121, 2021, [webpage](https://www.journal.csj.jp/doi/full/10.1246/bcsj.20200220).
 1. S. Shibayama, G. Marcou, D. Horvath, I. I. Baskin, K. Funatsu, A. Varnek, Molecular Informatics Application of the mol2vec technology to large-size data visualization and analysis, Molecular Informatics, 39 (2020) 1900170. doi:10.1002/minf.201900170.
 1. S. Shibayama, H. Kaneko, K. Funatsu, Formulation of excess absorption in infrared spectra by numerical decomposition to allow effective process monitoring, Computers & Chemical Engineering, 113, 86-97, 2018.

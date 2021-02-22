@@ -4,7 +4,7 @@ title: Output
 permalink: /output/
 published: true
 ---
-## Publication
+## Peer-Reviewed Publication
 1. S. Shibayama, K. Funatsu, Investigation of Preprocessing and Validation Methodologies for PAT: Case Study of the Granulation and Coating Steps for the Manufacturing of Ethenzamide Tablets. AAPS PharmSciTech, 22, 41, 2021,  [webpage](https://doi.org/10.1208/s12249-020-01911-w).
 1. S. Shibayama, K. Funatsu, Industrial Case Study: Identification of Important Substructures and Exploration of Monomers for the Rapid Design of Novel Network Polymers with Distributed Representation, Bulletin of the Chemical Society of Japan, 94 (1), 112-121, 2021, [webpage](https://www.journal.csj.jp/doi/full/10.1246/bcsj.20200220).
 1. S. Shibayama, G. Marcou, D. Horvath, I. I. Baskin, K. Funatsu, A. Varnek, Molecular Informatics Application of the mol2vec technology to large-size data visualization and analysis, Molecular Informatics, 39 (2020) 1900170. doi:10.1002/minf.201900170.
@@ -12,7 +12,7 @@ published: true
 1. S. Shibayama, H. Kaneko, K. Funatsu, Iterative Optimization Technology Combined with Wavelength Selection Based on Excess Absorption for a Process Analytical Technology Calibration-Minimum Approach, Chemometrics and Intelligent Laboratory Systems, 156, 137-147, 2016.
 1. S. Shibayama, H. Kaneko, K. Funatsu, A Novel Calibration-Minimum Method for Prediction of Mole Fraction in Non-Ideal Mixture, AAPS PharmSciTech, 2016.
 
-## Presentation (with peer-review)
+## Peer-Reviewed Presentation
 1. S. Shibayama, K. Funatsu, Dirichlet-PLS – mathematically reasonable prediction of
 concentrations, [ANS 2020](https://www.eng.rmuti.ac.th/ans2020/information/conference-program), Khon Kaen, Thai, Feb. 13-14, 2020
 1. S. Shibayama, K. Funatsu, Improvement of prediction errors based on standardized infrared spectra for a calibration-free approach, [APCChE](http://apcche2019.org) Sapporo, Hokkaido, Sep. 23-27, 2019
@@ -21,9 +21,12 @@ concentrations, [ANS 2020](https://www.eng.rmuti.ac.th/ans2020/information/confe
 1. S. Shibayama, Kimito FUNATSU, (poster) Applicability Domains of a Minimal-Calibration Model for Effective
 Online Monitoring of Pure Components’ Concentrations in the Pharmaceutical Continuous Manufacturing Processes, [PSE2018](https://sercuarc.org/event/process-systems-engineering-pse-2018/), [proceedings](https://www.elsevier.com/books/13th-international-symposium-on-process-systemsengineering-pse-2018-july-1-5-2018/eden/978-0-444-64241-7), San Diego, Jul. 1-5, 2018
 
+## Publication
+柴山翔二郎, 船津公人, 「連続生産実現に向けたキャリブレーションフリー手法の理論と実装」（output of the ISPE Facility of Future working group）[PHARM TECH JAPAN, 2021 February](https://www.jiho.co.jp/shop/list/detail/tabid/272/catid/75/pdid/92474/Default.aspx) (Japanese tech report)
+
 ## Presentation
-1. Design of functional polymer resin with a small-sized dataset/少数データを活用した機能性ポリマー樹脂の設計, Shojiro Shibayama, Kimito FUNATSU (Poster), [Cheminformatics Autumn School in Japan](http://funatsu.t.u-tokyo.ac.jp/en/home/), Nara, Japan, November 2019.
-1. Design of functional polymer resin with a small-sized dataset/少数データを活用した機能性ポリマー樹脂の設計, Shojiro Shibayama, Kimito FUNATSU, [CICSJ 42th](https://www.jstage.jst.go.jp/article/ciqs/2019/0/2019_2A01/_article/-char/en), Tokyo, Japan, October 2019.
+1. Design of functional polymer resin with a small-sized dataset/少数データを活用した機能性ポリマー樹脂の設計, Shojiro Shibayama, Kimito Funatsu (Poster), [Cheminformatics Autumn School in Japan](http://funatsu.t.u-tokyo.ac.jp/en/home/), Nara, Japan, November 2019.
+1. Design of functional polymer resin with a small-sized dataset/少数データを活用した機能性ポリマー樹脂の設計, Shojiro Shibayama, Kimito Funatsu, [CICSJ 42th](https://www.jstage.jst.go.jp/article/ciqs/2019/0/2019_2A01/_article/-char/en), Tokyo, Japan, October 2019.
 1. Development of a concentration prediction method based on deconvolution of infrared
 spectra for effective process monitoring in continuous processes/連続プロセスの効率的なオンライン監視のための赤外スペクトル分解手法を
 利用した濃度予測手法の開発, Shojiro Shibayama, Kimito FUNATSU, SICE 61th, Japan. November 2018.

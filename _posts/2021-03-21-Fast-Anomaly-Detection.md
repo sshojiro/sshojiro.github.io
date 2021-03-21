@@ -39,4 +39,4 @@ PAT利用時のモデル構築にadversarial validationを適用すると、
 ### 最後に
 もし参考になれば、引用していただけると幸いです。
 
-Shibayama, S., Funatsu, K. Investigation of Preprocessing and Validation Methodologies for PAT: Case Study of the Granulation and Coating Steps for the Manufacturing of Ethenzamide Tablets. AAPS PharmSciTech 22, 41 (2021). https://doi.org/10.1208/s12249-020-01911-w
+> Shibayama, S., Funatsu, K. Investigation of Preprocessing and Validation Methodologies for PAT: Case Study of the Granulation and Coating Steps for the Manufacturing of Ethenzamide Tablets. AAPS PharmSciTech 22, 41 (2021). https://doi.org/10.1208/s12249-020-01911-w

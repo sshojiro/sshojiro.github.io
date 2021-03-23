@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 研究紹介 - 連続生産へ向けた解析手法の検討
 ---
 ## 研究紹介 - 連続生産へ向けた解析手法の検討

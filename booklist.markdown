@@ -34,9 +34,9 @@ Other contents:
 
 ## [日本語資料] 新人へ贈るリスト
 1. 安宅和人氏の著書（必読）
-  1. [圧倒的に生産性の高い人（サイエンティスト）の研究スタイル](https://kaz-ataka.hatenablog.com/entry/20081018/1224287687)
-  1. [人を育てるラボの特徴](https://kaz-ataka.hatenablog.com/entry/20081023/1224697602)
-  1. [大学院教育で何が出来ると人が育ったと言えるのか](https://kaz-ataka.hatenablog.com/entry/20081028/1225126542)
-  1. [イシューからはじめよ――知的生産の「シンプルな本質」](https://www.amazon.co.jp/%E3%82%A4%E3%82%B7%E3%83%A5%E3%83%BC%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%82%81%E3%82%88%E2%80%95%E7%9F%A5%E7%9A%84%E7%94%9F%E7%94%A3%E3%81%AE%E3%80%8C%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E6%9C%AC%E8%B3%AA%E3%80%8D-%E5%AE%89%E5%AE%85%E5%92%8C%E4%BA%BA/dp/4862760856)
+    1. [圧倒的に生産性の高い人（サイエンティスト）の研究スタイル](https://kaz-ataka.hatenablog.com/entry/20081018/1224287687)
+    1. [人を育てるラボの特徴](https://kaz-ataka.hatenablog.com/entry/20081023/1224697602)
+    1. [大学院教育で何が出来ると人が育ったと言えるのか](https://kaz-ataka.hatenablog.com/entry/20081028/1225126542)
+    1. [イシューからはじめよ――知的生産の「シンプルな本質」](https://www.amazon.co.jp/%E3%82%A4%E3%82%B7%E3%83%A5%E3%83%BC%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%82%81%E3%82%88%E2%80%95%E7%9F%A5%E7%9A%84%E7%94%9F%E7%94%A3%E3%81%AE%E3%80%8C%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E6%9C%AC%E8%B3%AA%E3%80%8D-%E5%AE%89%E5%AE%85%E5%92%8C%E4%BA%BA/dp/4862760856)
 1. 計算系の研究者としての心得
-  1. [忙しい研究者のためのテストコードとドキュメントの書き方](https://qiita.com/hmkz/items/0689cd85fb3e1adcda1a)
+    1. [忙しい研究者のためのテストコードとドキュメントの書き方](https://qiita.com/hmkz/items/0689cd85fb3e1adcda1a)

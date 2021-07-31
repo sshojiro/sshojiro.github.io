@@ -15,7 +15,7 @@ I'm interested in mathmatical and statistical methods and chemical engineering, 
 - Reasearch on machine learning with Python, Matlab, and R language.
 - Server machine management on Ubuntu and CentOS.
 - Git, mysql, postgres, sqlite3, and mongodb.
-- English(TOEFL: 95, 2018/5/19, TOEIC: 845).
+- English ~~(TOEFL: 95, 2018/5/19, TOEIC: 845)~~.
 - Havnig driver license in Japan.
 
 ## Experience
@@ -38,11 +38,11 @@ I'm interested in mathmatical and statistical methods and chemical engineering, 
 - Worked as a teaching assistant for a lecture "computer chemistry exercise" at Department of Chemical System Engineering, the University of Tokyo, Apr.-Jul. 2015
 
 ## Grant
-- JSPS Research Fellowship (DC2) Apr. 2019-Mar.2021 (tentative schedule) (2400000 JPY for 2 years)
-- Accepted by [Aid for Foreign Activities Foundation for the Promotion of Engineering Research](http://www.erf.or.jp/help.html) in Japan for participation in PSE2018 (200000 JPY)
-- Public-Private Partnership Student Study Abroad Program TOBITATE! Young Ambassador Program, Ministry of Education, Culture, Sports, Science and Technology of Japan (MEXT), 15.Oct.2018-15.Mar.2019 (1210000 JPY for 6 months)
-- SEUT B type from School of Engineering, the University of Tokyo. Apr 2018-Mar 2019 (540000 JPY)
-- SEUT A type from School of Engineering, the University of Tokyo. Apr 2017-Mar 2018 (1440000 JPY)
+- JSPS Research Fellowship (DC2) Apr. 2019-Mar. 2021 (resigned on Sep. 2020) (2,400,000 JPY for 2 years)
+- Accepted by [Aid for Foreign Activities Foundation for the Promotion of Engineering Research](http://www.erf.or.jp/help.html) in Japan for participation in PSE2018 (200,000 JPY)
+- Public-Private Partnership Student Study Abroad Program TOBITATE! Young Ambassador Program, Ministry of Education, Culture, Sports, Science and Technology of Japan (MEXT), 15.Oct.2018-15.Mar.2019 (1,210,000 JPY for 6 months)
+- SEUT B type from School of Engineering, the University of Tokyo. Apr 2018-Mar 2019 (540,000 JPY)
+- SEUT A type from School of Engineering, the University of Tokyo. Apr 2017-Mar 2018 (1,440,000 JPY)
 
 ## Research Visits
 - Prof. Varnek's team, supervised by both Dr. Horvath and Prof. Varnek at Strasbourg University, 15.Oct.2018-15.Mar.2019.

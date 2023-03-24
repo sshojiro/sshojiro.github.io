@@ -8,14 +8,14 @@ published: true
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/sshojiro/contributions.svg)](http://qiita.com/sshojiro)
 
 ## Research Interests
-I'm interested in mathmatical and statistical methods and chemical engineering, especially shallow learning or theorem-based calibration methods.
+I'm interested in mathematical and statistical methods and chemical engineering, especially shallow learning or theorem-based calibration methods.
 
 ## Skills
-- Software development with Ruby on Rails, including javascript.
-- Reasearch on machine learning with Python, Matlab, and R language.
+- Software development with Ruby on Rails, including JavaScript.
+- Research on machine learning with Python, Matlab, and R language.
 - Server machine management on Ubuntu and CentOS.
-- Git, mysql, postgres, sqlite3, and mongodb.
-- English ~~(TOEFL: 95, 2018/5/19, TOEIC: 845)~~.
+- Git, MySql, Postgres, sqlite3, and mongodb.
+- English
 - Havnig driver license in Japan.
 
 ## Experience
